@@ -1,0 +1,550 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Open-source"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "[Alibaba Qwen Team] Qwen3",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-09T03:05:47Z",
+            "owner": "QwenLM",
+            "repo": "Qwen3",
+            "stars": 27506
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[NovaSky] Sky-T1",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-12T03:05:27Z",
+            "owner": "NovaSky-AI",
+            "repo": "SkyThought",
+            "stars": 3398
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[GAIR-NLP] O1 Replication Journey: A Strategic Progress Report",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-01-14T04:32:18Z",
+            "owner": "GAIR-NLP",
+            "repo": "O1-Journey",
+            "stars": 2001
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Alibaba] Marco-o1",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-17T09:47:50Z",
+            "owner": "ATH-MaaS",
+            "repo": "Marco-o1",
+            "stars": 1537
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[CUHK-SZ] HuatuoGPT-o1",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-01-20T02:31:13Z",
+            "owner": "FreedomIntelligence",
+            "repo": "HuatuoGPT-o1",
+            "stars": 1348
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[rLLM] DeepScaler",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-09-17T00:58:52Z",
+            "owner": "agentica-project",
+            "repo": "rllm",
+            "stars": 410
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Tencent] DRT-o1",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-09-01T13:53:58Z",
+            "owner": "krystalan",
+            "repo": "DRT",
+            "stars": 242
+          }
+        }
+      ],
+      "title": "Models"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "[Berkeley AI Research] TinyZero",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-27T05:42:07Z",
+            "owner": "Jiayi-Pan",
+            "repo": "TinyZero",
+            "stars": 13226
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[OpenRLHF Team] OpenRLHF",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T11:26:24Z",
+            "owner": "OpenRLHF",
+            "repo": "OpenRLHF",
+            "stars": 9908
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[OpenRLHF Team] REINFORCE++ | REINFORCE++-baseline",
+          "description": "Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T11:26:24Z",
+            "owner": "OpenRLHF",
+            "repo": "OpenRLHF",
+            "stars": 9908
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[LLaMA-Factory Team] EasyR1: An Efficient, Scalable, Multi-Modality RL Training Framework",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-30T09:58:19Z",
+            "owner": "hiyouga",
+            "repo": "EasyR1",
+            "stars": 5113
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[R1-V Team] R1-V",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-19T16:32:41Z",
+            "owner": "StarsfieldAI",
+            "repo": "R1-V",
+            "stars": 4061
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[HKUST] Simple Reinforcement Learning for Reasoning",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-23T13:44:52Z",
+            "owner": "hkust-nlp",
+            "repo": "simpleRL-reason",
+            "stars": 3869
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Alibaba] ROLL",
+          "description": "Paper",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T01:37:53Z",
+            "owner": "alibaba",
+            "repo": "ROLL",
+            "stars": 3361
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Ubiquant] Logic-RL: Unleashing LLM Reasoning with Rule-Based Reinforcement Learning",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-03-20T06:24:26Z",
+            "owner": "Unakar",
+            "repo": "Logic-RL",
+            "stars": 2449
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Maitrix.org] LLM Reasoners",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-10T02:19:40Z",
+            "owner": "maitrix-org",
+            "repo": "llm-reasoners",
+            "stars": 2341
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[NovaSky-AI] SkyRL",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T18:45:18Z",
+            "owner": "NovaSky-AI",
+            "repo": "SkyRL",
+            "stars": 2149
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[StepFun] Open-Reasoner-Zero",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-02T16:36:00Z",
+            "owner": "Open-Reasoner-Zero",
+            "repo": "Open-Reasoner-Zero",
+            "stars": 2097
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Sea AI Lab] Dr. GRPO",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-27T14:39:28Z",
+            "owner": "sail-sg",
+            "repo": "understand-r1-zero",
+            "stars": 1271
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[TideDra] LMM-R1",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-14T10:50:54Z",
+            "owner": "TideDra",
+            "repo": "lmm-r1",
+            "stars": 848
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[ModalMinds] MM-EUREKA: Exploring Visual Aha Moment with Rule-based Large-scale Reinforcement Learning",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-07T11:17:57Z",
+            "owner": "ModalMinds",
+            "repo": "MM-EUREKA",
+            "stars": 770
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[RUCAIBox] STILL: Slow Thinking with LLMs",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-13T04:14:22Z",
+            "owner": "RUCAIBox",
+            "repo": "Slow_Thinking_with_LLMs",
+            "stars": 768
+          }
+        }
+      ],
+      "title": "Codebase"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Papers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-06-27T08:35:54Z",
+            "owner": "deepseek-ai",
+            "repo": "DeepSeek-R1",
+            "stars": 91978
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Qwen3 Technical Report",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-09T03:05:47Z",
+            "owner": "QwenLM",
+            "repo": "Qwen3",
+            "stars": 27506
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kimi k2: Open agentic intelligence",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-01-21T05:33:12Z",
+            "owner": "MoonshotAI",
+            "repo": "Kimi-K2",
+            "stars": 11103
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kimi k1.5: Scaling Reinforcement Learning with LLMs",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-03-07T11:16:36Z",
+            "owner": "MoonshotAI",
+            "repo": "Kimi-k1.5",
+            "stars": 3477
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MiMo-V2 Flash",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-01-08T04:53:37Z",
+            "owner": "XiaomiMiMo",
+            "repo": "MiMo-V2-Flash",
+            "stars": 1368
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LongCat Flash",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-23T12:07:22Z",
+            "owner": "meituan-longcat",
+            "repo": "LongCat-Flash-Chat",
+            "stars": 1359
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DeepSeek-Prover-V2: Advancing Formal Mathematical Reasoning via Reinforcement Learning for Subgoal Decomposition",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-07-18T08:11:37Z",
+            "owner": "deepseek-ai",
+            "repo": "DeepSeek-Prover-V2",
+            "stars": 1291
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KIMI-VL TECHNICAL REPORT",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-07-15T15:48:21Z",
+            "owner": "MoonshotAI",
+            "repo": "Kimi-VL",
+            "stars": 1220
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Seed Thinking v1.5",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-06-09T12:08:26Z",
+            "owner": "ByteDance-Seed",
+            "repo": "Seed-Thinking-v1.5",
+            "stars": 810
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kimina-Prover Preview: Towards Large Formal Reasoning Models with Reinforcement Learning",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-10T13:04:40Z",
+            "owner": "MoonshotAI",
+            "repo": "Kimina-Prover-Preview",
+            "stars": 374
+          }
+        }
+      ],
+      "title": "Technical Report on o1 Models"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Distillation Quantification for Large Language Models",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-05T10:18:49Z",
+            "owner": "Bowen1911",
+            "repo": "LLMs-Distillation-Quantification",
+            "stars": 103
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "REINFORCE++: An Efficient RLHF Algorithm with Robustness to Both Prompt and Reward Models",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code: REINFORCE++-baseline",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-08-13T11:26:24Z",
+                "owner": "OpenRLHF",
+                "repo": "OpenRLHF",
+                "stars": 9908
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code: https://github.com/yyht/openrlhf_async_pipline",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-08-16T08:41:05Z",
+                "owner": "yyht",
+                "repo": "openrlhf_async_pipline",
+                "stars": 90
+              }
+            }
+          ]
+        }
+      ],
+      "title": "2025"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T19:44:48.897Z",
+    "original_repository": "hijkzzz/Awesome-LLM-Strawberry",
+    "original_repository_sha": "3f17fc9ee49c8de7a6e14f4bbca142930b9e20c1",
+    "enhanced_repository": "enhansome/enhansome-Awesome-LLM-Strawberry",
+    "enhanced_repository_description": null,
+    "title": "Awesome LLM Strawberry (OpenAI o1) with stars"
+  }
+}
