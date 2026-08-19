@@ -129,7 +129,7 @@
                 "last_commit": "2026-02-27T05:42:07Z",
                 "owner": "Jiayi-Pan",
                 "repo": "TinyZero",
-                "stars": 13223
+                "stars": 13224
               }
             },
             {
@@ -264,7 +264,7 @@
                 "last_commit": "2026-08-19T00:50:41Z",
                 "owner": "NovaSky-AI",
                 "repo": "SkyRL",
-                "stars": 2171
+                "stars": 2174
               }
             },
             {
@@ -367,7 +367,7 @@
                 "last_commit": "2025-06-27T08:35:54Z",
                 "owner": "deepseek-ai",
                 "repo": "DeepSeek-R1",
-                "stars": 92032
+                "stars": 92034
               }
             },
             {
@@ -442,7 +442,7 @@
                 "last_commit": "2026-06-23T12:07:22Z",
                 "owner": "meituan-longcat",
                 "repo": "LongCat-Flash-Chat",
-                "stars": 1359
+                "stars": 1360
               }
             },
             {
@@ -581,7 +581,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:08:21.711Z",
+    "last_updated": "2026-08-19T19:10:44.611Z",
     "original_repository": "hijkzzz/Awesome-LLM-Strawberry",
     "original_repository_id": 857596299,
     "original_repository_sha": "3f17fc9ee49c8de7a6e14f4bbca142930b9e20c1",
