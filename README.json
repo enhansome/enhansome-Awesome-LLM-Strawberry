@@ -17,7 +17,7 @@
                 "last_commit": "2026-01-09T03:05:47Z",
                 "owner": "QwenLM",
                 "repo": "Qwen3",
-                "stars": 27543
+                "stars": 27547
               }
             },
             {
@@ -129,7 +129,7 @@
                 "last_commit": "2026-02-27T05:42:07Z",
                 "owner": "Jiayi-Pan",
                 "repo": "TinyZero",
-                "stars": 13227
+                "stars": 13225
               }
             },
             {
@@ -144,7 +144,7 @@
                 "last_commit": "2026-08-13T11:26:24Z",
                 "owner": "OpenRLHF",
                 "repo": "OpenRLHF",
-                "stars": 9940
+                "stars": 9943
               }
             },
             {
@@ -159,7 +159,7 @@
                 "last_commit": "2026-08-13T11:26:24Z",
                 "owner": "OpenRLHF",
                 "repo": "OpenRLHF",
-                "stars": 9940
+                "stars": 9943
               }
             },
             {
@@ -216,10 +216,10 @@
                 "archived": false,
                 "id": 991939049,
                 "language": "Python",
-                "last_commit": "2026-08-21T11:09:07Z",
+                "last_commit": "2026-08-22T01:33:57Z",
                 "owner": "alibaba",
                 "repo": "ROLL",
-                "stars": 3366
+                "stars": 3368
               }
             },
             {
@@ -261,10 +261,10 @@
                 "archived": false,
                 "id": 970890722,
                 "language": "Python",
-                "last_commit": "2026-08-20T23:05:01Z",
+                "last_commit": "2026-08-22T01:02:39Z",
                 "owner": "NovaSky-AI",
                 "repo": "SkyRL",
-                "stars": 2181
+                "stars": 2186
               }
             },
             {
@@ -367,7 +367,7 @@
                 "last_commit": "2025-06-27T08:35:54Z",
                 "owner": "deepseek-ai",
                 "repo": "DeepSeek-R1",
-                "stars": 92037
+                "stars": 92036
               }
             },
             {
@@ -382,7 +382,7 @@
                 "last_commit": "2026-01-09T03:05:47Z",
                 "owner": "QwenLM",
                 "repo": "Qwen3",
-                "stars": 27543
+                "stars": 27547
               }
             },
             {
@@ -397,7 +397,7 @@
                 "last_commit": "2026-01-21T05:33:12Z",
                 "owner": "MoonshotAI",
                 "repo": "Kimi-K2",
-                "stars": 11102
+                "stars": 11103
               }
             },
             {
@@ -472,7 +472,7 @@
                 "last_commit": "2025-07-15T15:48:21Z",
                 "owner": "MoonshotAI",
                 "repo": "Kimi-VL",
-                "stars": 1222
+                "stars": 1223
               }
             },
             {
@@ -544,7 +544,7 @@
                     "last_commit": "2026-08-13T11:26:24Z",
                     "owner": "OpenRLHF",
                     "repo": "OpenRLHF",
-                    "stars": 9940
+                    "stars": 9943
                   }
                 }
               ]
@@ -581,7 +581,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T19:14:46.494Z",
+    "last_updated": "2026-08-22T19:04:10.982Z",
     "original_repository": "hijkzzz/Awesome-LLM-Strawberry",
     "original_repository_id": 857596299,
     "original_repository_sha": "3f17fc9ee49c8de7a6e14f4bbca142930b9e20c1",
