@@ -17,7 +17,7 @@
                 "last_commit": "2026-01-09T03:05:47Z",
                 "owner": "QwenLM",
                 "repo": "Qwen3",
-                "stars": 27552
+                "stars": 27553
               }
             },
             {
@@ -77,7 +77,7 @@
                 "last_commit": "2025-01-20T02:31:13Z",
                 "owner": "FreedomIntelligence",
                 "repo": "HuatuoGPT-o1",
-                "stars": 1347
+                "stars": 1348
               }
             },
             {
@@ -144,7 +144,7 @@
                 "last_commit": "2026-08-13T11:26:24Z",
                 "owner": "OpenRLHF",
                 "repo": "OpenRLHF",
-                "stars": 9947
+                "stars": 9950
               }
             },
             {
@@ -159,7 +159,7 @@
                 "last_commit": "2026-08-13T11:26:24Z",
                 "owner": "OpenRLHF",
                 "repo": "OpenRLHF",
-                "stars": 9947
+                "stars": 9950
               }
             },
             {
@@ -174,7 +174,7 @@
                 "last_commit": "2026-07-30T09:58:19Z",
                 "owner": "hiyouga",
                 "repo": "EasyR1",
-                "stars": 5126
+                "stars": 5128
               }
             },
             {
@@ -204,7 +204,7 @@
                 "last_commit": "2025-12-23T13:44:52Z",
                 "owner": "hkust-nlp",
                 "repo": "simpleRL-reason",
-                "stars": 3874
+                "stars": 3875
               }
             },
             {
@@ -216,10 +216,10 @@
                 "archived": false,
                 "id": 991939049,
                 "language": "Python",
-                "last_commit": "2026-08-23T01:34:41Z",
+                "last_commit": "2026-08-24T10:12:14Z",
                 "owner": "alibaba",
                 "repo": "ROLL",
-                "stars": 3368
+                "stars": 3371
               }
             },
             {
@@ -264,7 +264,7 @@
                 "last_commit": "2026-08-22T01:02:39Z",
                 "owner": "NovaSky-AI",
                 "repo": "SkyRL",
-                "stars": 2188
+                "stars": 2190
               }
             },
             {
@@ -367,7 +367,7 @@
                 "last_commit": "2025-06-27T08:35:54Z",
                 "owner": "deepseek-ai",
                 "repo": "DeepSeek-R1",
-                "stars": 92031
+                "stars": 92036
               }
             },
             {
@@ -382,7 +382,7 @@
                 "last_commit": "2026-01-09T03:05:47Z",
                 "owner": "QwenLM",
                 "repo": "Qwen3",
-                "stars": 27552
+                "stars": 27553
               }
             },
             {
@@ -397,7 +397,7 @@
                 "last_commit": "2026-01-21T05:33:12Z",
                 "owner": "MoonshotAI",
                 "repo": "Kimi-K2",
-                "stars": 11103
+                "stars": 11105
               }
             },
             {
@@ -412,7 +412,7 @@
                 "last_commit": "2025-03-07T11:16:36Z",
                 "owner": "MoonshotAI",
                 "repo": "Kimi-k1.5",
-                "stars": 3474
+                "stars": 3473
               }
             },
             {
@@ -442,7 +442,7 @@
                 "last_commit": "2026-06-23T12:07:22Z",
                 "owner": "meituan-longcat",
                 "repo": "LongCat-Flash-Chat",
-                "stars": 1362
+                "stars": 1363
               }
             },
             {
@@ -457,7 +457,7 @@
                 "last_commit": "2025-07-18T08:11:37Z",
                 "owner": "deepseek-ai",
                 "repo": "DeepSeek-Prover-V2",
-                "stars": 1296
+                "stars": 1297
               }
             },
             {
@@ -544,7 +544,7 @@
                     "last_commit": "2026-08-13T11:26:24Z",
                     "owner": "OpenRLHF",
                     "repo": "OpenRLHF",
-                    "stars": 9947
+                    "stars": 9950
                   }
                 }
               ]
@@ -575,13 +575,42 @@
           "description": null,
           "node_type": "group",
           "title": "2025"
+        },
+        {
+          "children": [
+            {
+              "node_type": "group",
+              "title": "Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "https://github.com/ezelikman/quiet-star",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 773474648,
+                    "language": "Python",
+                    "last_commit": "2024-08-21T12:48:12Z",
+                    "owner": "ezelikman",
+                    "repo": "quiet-star",
+                    "stars": 739
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "2024"
         }
       ],
       "title": "Papers"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T19:04:07.271Z",
+    "last_updated": "2026-08-24T13:54:33.396Z",
     "original_repository": "hijkzzz/Awesome-LLM-Strawberry",
     "original_repository_id": 857596299,
     "original_repository_sha": "3f17fc9ee49c8de7a6e14f4bbca142930b9e20c1",
