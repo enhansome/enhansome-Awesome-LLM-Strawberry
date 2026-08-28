@@ -17,7 +17,7 @@
                 "last_commit": "2026-01-09T03:05:47Z",
                 "owner": "QwenLM",
                 "repo": "Qwen3",
-                "stars": 27560
+                "stars": 27565
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2025-07-12T03:05:27Z",
                 "owner": "NovaSky-AI",
                 "repo": "SkyThought",
-                "stars": 3399
+                "stars": 3400
               }
             },
             {
@@ -129,7 +129,7 @@
                 "last_commit": "2026-02-27T05:42:07Z",
                 "owner": "Jiayi-Pan",
                 "repo": "TinyZero",
-                "stars": 13223
+                "stars": 13224
               }
             },
             {
@@ -144,7 +144,7 @@
                 "last_commit": "2026-08-13T11:26:24Z",
                 "owner": "OpenRLHF",
                 "repo": "OpenRLHF",
-                "stars": 9957
+                "stars": 9956
               }
             },
             {
@@ -159,7 +159,7 @@
                 "last_commit": "2026-08-13T11:26:24Z",
                 "owner": "OpenRLHF",
                 "repo": "OpenRLHF",
-                "stars": 9957
+                "stars": 9956
               }
             },
             {
@@ -174,7 +174,7 @@
                 "last_commit": "2026-08-26T21:14:17Z",
                 "owner": "hiyouga",
                 "repo": "EasyR1",
-                "stars": 5130
+                "stars": 5132
               }
             },
             {
@@ -189,7 +189,7 @@
                 "last_commit": "2025-05-19T16:32:41Z",
                 "owner": "StarsfieldAI",
                 "repo": "R1-V",
-                "stars": 4063
+                "stars": 4065
               }
             },
             {
@@ -204,7 +204,7 @@
                 "last_commit": "2025-12-23T13:44:52Z",
                 "owner": "hkust-nlp",
                 "repo": "simpleRL-reason",
-                "stars": 3874
+                "stars": 3875
               }
             },
             {
@@ -234,7 +234,7 @@
                 "last_commit": "2025-03-20T06:24:26Z",
                 "owner": "Unakar",
                 "repo": "Logic-RL",
-                "stars": 2448
+                "stars": 2447
               }
             },
             {
@@ -367,7 +367,7 @@
                 "last_commit": "2025-06-27T08:35:54Z",
                 "owner": "deepseek-ai",
                 "repo": "DeepSeek-R1",
-                "stars": 92038
+                "stars": 92040
               }
             },
             {
@@ -382,7 +382,7 @@
                 "last_commit": "2026-01-09T03:05:47Z",
                 "owner": "QwenLM",
                 "repo": "Qwen3",
-                "stars": 27560
+                "stars": 27565
               }
             },
             {
@@ -397,7 +397,7 @@
                 "last_commit": "2026-01-21T05:33:12Z",
                 "owner": "MoonshotAI",
                 "repo": "Kimi-K2",
-                "stars": 11105
+                "stars": 11107
               }
             },
             {
@@ -427,7 +427,7 @@
                 "last_commit": "2026-01-08T04:53:37Z",
                 "owner": "XiaomiMiMo",
                 "repo": "MiMo-V2-Flash",
-                "stars": 1368
+                "stars": 1369
               }
             },
             {
@@ -544,7 +544,7 @@
                     "last_commit": "2026-08-13T11:26:24Z",
                     "owner": "OpenRLHF",
                     "repo": "OpenRLHF",
-                    "stars": 9957
+                    "stars": 9956
                   }
                 }
               ]
@@ -610,7 +610,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:23:21.271Z",
+    "last_updated": "2026-08-28T02:20:47.859Z",
     "original_repository_info": {
       "archived": false,
       "id": 857596299,
