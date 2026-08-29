@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.",
+                "homepage": null,
                 "id": 752925682,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-01-09T03:05:47Z",
+                "open_issues": 66,
                 "owner": "QwenLM",
                 "repo": "Qwen3",
-                "stars": 27566
+                "stars": 27566,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:57.123Z"
             },
@@ -28,12 +33,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sky-T1: Train your own O1 preview model within $450",
+                "homepage": "https://novasky-ai.github.io/",
                 "id": 914574966,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-07-12T03:05:27Z",
+                "open_issues": 22,
                 "owner": "NovaSky-AI",
                 "repo": "SkyThought",
-                "stars": 3400
+                "stars": 3400,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:57.123Z"
             },
@@ -44,12 +54,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "O1 Replication Journey",
+                "homepage": null,
                 "id": 868886687,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-01-14T04:32:18Z",
+                "open_issues": 14,
                 "owner": "GAIR-NLP",
                 "repo": "O1-Journey",
-                "stars": 2002
+                "stars": 2002,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:57.123Z"
             },
@@ -60,12 +75,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An Open Large Reasoning Model for Real-World Solutions",
+                "homepage": null,
                 "id": 876601822,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-06-17T09:47:50Z",
+                "open_issues": 10,
                 "owner": "ATH-MaaS",
                 "repo": "Marco-o1",
-                "stars": 1538
+                "stars": 1538,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:57.123Z"
             },
@@ -76,12 +96,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Medical o1, Towards medical complex reasoning with LLMs",
+                "homepage": null,
                 "id": 906833146,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-01-20T02:31:13Z",
+                "open_issues": 27,
                 "owner": "FreedomIntelligence",
                 "repo": "HuatuoGPT-o1",
-                "stars": 1352
+                "stars": 1352,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:57.123Z"
             },
@@ -92,12 +117,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1027586228,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2025-09-17T00:58:52Z",
+                "open_issues": 9,
                 "owner": "agentica-project",
                 "repo": "rllm",
-                "stars": 410
+                "stars": 410,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:57.123Z"
             },
@@ -108,12 +138,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deep Reasoning Translation (DRT) Project",
+                "homepage": null,
                 "id": 907327039,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-09-01T13:53:58Z",
+                "open_issues": 4,
                 "owner": "krystalan",
                 "repo": "DRT",
-                "stars": 242
+                "stars": 242,
+                "topics": [
+                  "large-language-models",
+                  "literature-translation",
+                  "machine-translation",
+                  "reasoning-language-models",
+                  "reinforcement-learning"
+                ]
               },
               "first_seen": "2026-08-29T01:54:57.123Z"
             }
@@ -131,12 +172,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Minimal reproduction of DeepSeek R1-Zero",
+                "homepage": null,
                 "id": 920152532,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-02-27T05:42:07Z",
+                "open_issues": 82,
                 "owner": "Jiayi-Pan",
                 "repo": "TinyZero",
-                "stars": 13223
+                "stars": 13223,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:57.123Z"
             },
@@ -147,12 +193,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An Easy-to-use, Scalable and High-performance Agentic RL Framework based on Ray (PPO & DAPO & REINFORCE++ &  VLM & TIS & vLLM & Ray & Async  RL)",
+                "homepage": "https://openrlhf.readthedocs.io/",
                 "id": 672415139,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-13T11:26:24Z",
+                "open_issues": 362,
                 "owner": "OpenRLHF",
                 "repo": "OpenRLHF",
-                "stars": 9958
+                "stars": 9958,
+                "topics": [
+                  "large-language-models",
+                  "proximal-policy-optimization",
+                  "raylib",
+                  "reinforcement-learning",
+                  "reinforcement-learning-from-human-feedback",
+                  "transformers",
+                  "visual-language-models",
+                  "vllm"
+                ]
               },
               "first_seen": "2026-08-29T01:54:57.123Z"
             },
@@ -163,12 +223,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An Easy-to-use, Scalable and High-performance Agentic RL Framework based on Ray (PPO & DAPO & REINFORCE++ &  VLM & TIS & vLLM & Ray & Async  RL)",
+                "homepage": "https://openrlhf.readthedocs.io/",
                 "id": 672415139,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-13T11:26:24Z",
+                "open_issues": 362,
                 "owner": "OpenRLHF",
                 "repo": "OpenRLHF",
-                "stars": 9958
+                "stars": 9958,
+                "topics": [
+                  "large-language-models",
+                  "proximal-policy-optimization",
+                  "raylib",
+                  "reinforcement-learning",
+                  "reinforcement-learning-from-human-feedback",
+                  "transformers",
+                  "visual-language-models",
+                  "vllm"
+                ]
               },
               "first_seen": "2026-08-29T01:54:57.123Z"
             },
@@ -179,12 +253,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "EasyR1: An Efficient, Scalable, Multi-Modality RL Training Framework based on veRL",
+                "homepage": "https://verl.readthedocs.io",
                 "id": 936986786,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-26T21:14:17Z",
+                "open_issues": 56,
                 "owner": "hiyouga",
                 "repo": "EasyR1",
-                "stars": 5135
+                "stars": 5136,
+                "topics": [
+                  "ai",
+                  "deepseek",
+                  "gpt",
+                  "llm",
+                  "nlp",
+                  "qwen",
+                  "reinforcement-learning",
+                  "rl"
+                ]
               },
               "first_seen": "2026-08-29T01:54:57.123Z"
             },
@@ -195,12 +283,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Witness the aha moment of VLM with less than $3.",
+                "homepage": null,
                 "id": 926175608,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-05-19T16:32:41Z",
+                "open_issues": 95,
                 "owner": "StarsfieldAI",
                 "repo": "R1-V",
-                "stars": 4064
+                "stars": 4064,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:57.123Z"
             },
@@ -211,12 +304,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple RL training for reasoning",
+                "homepage": null,
                 "id": 922051092,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-12-23T13:44:52Z",
+                "open_issues": 34,
                 "owner": "hkust-nlp",
                 "repo": "simpleRL-reason",
-                "stars": 3874
+                "stars": 3874,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:57.123Z"
             },
@@ -227,12 +325,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An Efficient and User-Friendly Scaling Library for Reinforcement Learning with Large Language Models",
+                "homepage": "https://alibaba.github.io/ROLL/",
                 "id": 991939049,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-29T01:17:50Z",
+                "open_issues": 127,
                 "owner": "alibaba",
                 "repo": "ROLL",
-                "stars": 3373
+                "stars": 3373,
+                "topics": [
+                  "agentic",
+                  "rlhf",
+                  "rlvr"
+                ]
               },
               "first_seen": "2026-08-29T01:54:57.123Z"
             },
@@ -243,12 +350,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Reproduce R1 Zero on Logic Puzzle",
+                "homepage": null,
                 "id": 926010165,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-03-20T06:24:26Z",
+                "open_issues": 13,
                 "owner": "Unakar",
                 "repo": "Logic-RL",
-                "stars": 2446
+                "stars": 2446,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:57.123Z"
             },
@@ -259,12 +371,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A library for advanced large language model reasoning",
+                "homepage": "https://www.llm-reasoners.net/",
                 "id": 648049925,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-06-10T02:19:40Z",
+                "open_issues": 32,
                 "owner": "maitrix-org",
                 "repo": "llm-reasoners",
-                "stars": 2343
+                "stars": 2343,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:57.123Z"
             },
@@ -275,12 +392,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SkyRL: A Modular Full-stack RL Library for LLMs",
+                "homepage": "https://docs.skyrl.ai/docs",
                 "id": 970890722,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-29T00:48:19Z",
+                "open_issues": 437,
                 "owner": "NovaSky-AI",
                 "repo": "SkyRL",
-                "stars": 2206
+                "stars": 2206,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:57.123Z"
             },
@@ -291,12 +413,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official Repo for Open-Reasoner-Zero",
+                "homepage": "https://yasminezhang.notion.site/Open-Reasoner-Zero-19e12cf72d418007b9cdebf44b0e7903",
                 "id": 935587127,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-06-02T16:36:00Z",
+                "open_issues": 21,
                 "owner": "Open-Reasoner-Zero",
                 "repo": "Open-Reasoner-Zero",
-                "stars": 2099
+                "stars": 2099,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:57.123Z"
             },
@@ -307,12 +434,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Understanding R1-Zero-Like Training: A Critical Perspective",
+                "homepage": "https://arxiv.org/pdf/2503.20783",
                 "id": 951018704,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-08-27T14:39:28Z",
+                "open_issues": 7,
                 "owner": "sail-sg",
                 "repo": "understand-r1-zero",
-                "stars": 1274
+                "stars": 1274,
+                "topics": [
+                  "llm",
+                  "r1-zero",
+                  "reasoning",
+                  "rl"
+                ]
               },
               "first_seen": "2026-08-29T01:54:57.123Z"
             },
@@ -323,12 +460,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Extend OpenRLHF to support LMM RL training for reproduction of DeepSeek-R1 on multimodal tasks.",
+                "homepage": null,
                 "id": 932022809,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-05-14T10:50:54Z",
+                "open_issues": 16,
                 "owner": "TideDra",
                 "repo": "lmm-r1",
-                "stars": 848
+                "stars": 848,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:57.123Z"
             },
@@ -339,12 +481,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MM-EUREKA: Exploring the Frontiers of Multimodal Reasoning with Rule-based Reinforcement Learning",
+                "homepage": null,
                 "id": 944536696,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-09-07T11:17:57Z",
+                "open_issues": 16,
                 "owner": "ModalMinds",
                 "repo": "MM-EUREKA",
-                "stars": 771
+                "stars": 771,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:57.123Z"
             },
@@ -355,12 +502,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A series of technical report on Slow Thinking with LLM",
+                "homepage": null,
                 "id": 902180159,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-08-13T04:14:22Z",
+                "open_issues": 17,
                 "owner": "RUCAIBox",
                 "repo": "Slow_Thinking_with_LLMs",
-                "stars": 768
+                "stars": 768,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:57.123Z"
             }
@@ -384,12 +536,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 919443098,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2025-06-27T08:35:54Z",
+                "open_issues": 34,
                 "owner": "deepseek-ai",
                 "repo": "DeepSeek-R1",
-                "stars": 92039
+                "stars": 92037,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:57.123Z"
             },
@@ -400,12 +557,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.",
+                "homepage": null,
                 "id": 752925682,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-01-09T03:05:47Z",
+                "open_issues": 66,
                 "owner": "QwenLM",
                 "repo": "Qwen3",
-                "stars": 27566
+                "stars": 27566,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:57.123Z"
             },
@@ -416,12 +578,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Kimi K2 is the large language model series developed by Moonshot AI team",
+                "homepage": null,
                 "id": 1013143108,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2026-01-21T05:33:12Z",
+                "open_issues": 70,
                 "owner": "MoonshotAI",
                 "repo": "Kimi-K2",
-                "stars": 11109
+                "stars": 11109,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:57.123Z"
             },
@@ -432,12 +599,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 919054764,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-03-07T11:16:36Z",
+                "open_issues": 16,
                 "owner": "MoonshotAI",
                 "repo": "Kimi-k1.5",
-                "stars": 3471
+                "stars": 3471,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:57.123Z"
             },
@@ -448,12 +620,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MiMo-V2-Flash: Efficient Reasoning, Coding, and Agentic Foundation Model",
+                "homepage": null,
                 "id": 1116967234,
                 "language": null,
+                "license": "Apache-2.0",
                 "last_commit": "2026-01-08T04:53:37Z",
+                "open_issues": 22,
                 "owner": "XiaomiMiMo",
                 "repo": "MiMo-V2-Flash",
-                "stars": 1369
+                "stars": 1369,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:57.123Z"
             },
@@ -464,12 +641,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1047523607,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-06-23T12:07:22Z",
+                "open_issues": 15,
                 "owner": "meituan-longcat",
                 "repo": "LongCat-Flash-Chat",
-                "stars": 1365
+                "stars": 1365,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:57.123Z"
             },
@@ -480,12 +662,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 975544236,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2025-07-18T08:11:37Z",
+                "open_issues": 12,
                 "owner": "deepseek-ai",
                 "repo": "DeepSeek-Prover-V2",
-                "stars": 1298
+                "stars": 1298,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:57.123Z"
             },
@@ -496,12 +683,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Kimi-VL: Mixture-of-Experts Vision-Language Model for Multimodal Reasoning, Long-Context Understanding, and Strong Agent Capabilities",
+                "homepage": null,
                 "id": 963152510,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2025-07-15T15:48:21Z",
+                "open_issues": 40,
                 "owner": "MoonshotAI",
                 "repo": "Kimi-VL",
-                "stars": 1226
+                "stars": 1226,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:57.123Z"
             },
@@ -512,12 +704,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 963854206,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-06-09T12:08:26Z",
+                "open_issues": 10,
                 "owner": "ByteDance-Seed",
                 "repo": "Seed-Thinking-v1.5",
-                "stars": 811
+                "stars": 811,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:57.123Z"
             },
@@ -528,12 +725,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Technical report of Kimina-Prover Preview.",
+                "homepage": null,
                 "id": 966106925,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-07-10T13:04:40Z",
+                "open_issues": 1,
                 "owner": "MoonshotAI",
                 "repo": "Kimina-Prover-Preview",
-                "stars": 376
+                "stars": 376,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:57.123Z"
             }
@@ -551,12 +753,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Repo of ACL 2025 Paper \"Quantification of Large Language Model Distillation\"",
+                "homepage": "https://aclanthology.org/2025.acl-long.248.pdf",
                 "id": 919804905,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-03-05T10:18:49Z",
+                "open_issues": 2,
                 "owner": "Bowen1911",
                 "repo": "LLMs-Distillation-Quantification",
-                "stars": 103
+                "stars": 103,
+                "topics": [
+                  "distillation",
+                  "llms",
+                  "quantification"
+                ]
               },
               "first_seen": "2026-08-29T01:54:57.123Z"
             },
@@ -572,12 +783,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An Easy-to-use, Scalable and High-performance Agentic RL Framework based on Ray (PPO & DAPO & REINFORCE++ &  VLM & TIS & vLLM & Ray & Async  RL)",
+                    "homepage": "https://openrlhf.readthedocs.io/",
                     "id": 672415139,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-13T11:26:24Z",
+                    "open_issues": 362,
                     "owner": "OpenRLHF",
                     "repo": "OpenRLHF",
-                    "stars": 9958
+                    "stars": 9958,
+                    "topics": [
+                      "large-language-models",
+                      "proximal-policy-optimization",
+                      "raylib",
+                      "reinforcement-learning",
+                      "reinforcement-learning-from-human-feedback",
+                      "transformers",
+                      "visual-language-models",
+                      "vllm"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:54:57.123Z"
                 }
@@ -595,12 +820,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 979840085,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-08-16T08:41:05Z",
+                    "open_issues": 4,
                     "owner": "yyht",
                     "repo": "openrlhf_async_pipline",
-                    "stars": 90
+                    "stars": 90,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:54:57.123Z"
                 }
@@ -625,12 +855,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code for Quiet-STaR",
+                    "homepage": "https://arxiv.org/abs/2403.09629",
                     "id": 773474648,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-08-21T12:48:12Z",
+                    "open_issues": 14,
                     "owner": "ezelikman",
                     "repo": "quiet-star",
-                    "stars": 739
+                    "stars": 739,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:54:57.123Z"
                 }
@@ -646,15 +881,29 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T01:54:57.123Z",
+    "last_updated": "2026-08-29T04:13:39.574Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A collection of LLM papers, blogs, and projects, with a focus on OpenAI o1 🍓 and reasoning techniques.",
+      "homepage": null,
       "id": 857596299,
       "language": null,
+      "license": "Apache-2.0",
       "last_commit": "2025-12-17T01:42:37Z",
+      "open_issues": 27,
       "owner": "hijkzzz",
       "repo": "Awesome-LLM-Strawberry",
-      "stars": 6899
+      "stars": 6899,
+      "topics": [
+        "chain-of-thought",
+        "coding",
+        "llm",
+        "mathematics",
+        "mcts",
+        "openai-o1",
+        "reinforcement-learning",
+        "strawberry"
+      ]
     },
     "original_repository_sha": "3f17fc9ee49c8de7a6e14f4bbca142930b9e20c1",
     "enhanced_repository": "enhansome/enhansome-Awesome-LLM-Strawberry",
