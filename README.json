@@ -21,7 +21,7 @@
                 "open_issues": 66,
                 "owner": "QwenLM",
                 "repo": "Qwen3",
-                "stars": 27581,
+                "stars": 27585,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:57.123Z"
@@ -199,10 +199,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-13T11:26:24Z",
-                "open_issues": 363,
+                "open_issues": 364,
                 "owner": "OpenRLHF",
                 "repo": "OpenRLHF",
-                "stars": 9961,
+                "stars": 9968,
                 "topics": [
                   "large-language-models",
                   "proximal-policy-optimization",
@@ -229,10 +229,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-13T11:26:24Z",
-                "open_issues": 363,
+                "open_issues": 364,
                 "owner": "OpenRLHF",
                 "repo": "OpenRLHF",
-                "stars": 9961,
+                "stars": 9968,
                 "topics": [
                   "large-language-models",
                   "proximal-policy-optimization",
@@ -262,7 +262,7 @@
                 "open_issues": 56,
                 "owner": "hiyouga",
                 "repo": "EasyR1",
-                "stars": 5136,
+                "stars": 5139,
                 "topics": [
                   "ai",
                   "deepseek",
@@ -292,7 +292,7 @@
                 "open_issues": 95,
                 "owner": "StarsfieldAI",
                 "repo": "R1-V",
-                "stars": 4064,
+                "stars": 4063,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:57.123Z"
@@ -313,7 +313,7 @@
                 "open_issues": 34,
                 "owner": "hkust-nlp",
                 "repo": "simpleRL-reason",
-                "stars": 3874,
+                "stars": 3873,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:57.123Z"
@@ -330,11 +330,11 @@
                 "id": 991939049,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-31T01:33:53Z",
+                "last_commit": "2026-09-01T01:36:55Z",
                 "open_issues": 128,
                 "owner": "alibaba",
                 "repo": "ROLL",
-                "stars": 3376,
+                "stars": 3378,
                 "topics": [
                   "agentic",
                   "rlhf",
@@ -397,11 +397,11 @@
                 "id": 970890722,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-31T22:36:22Z",
-                "open_issues": 438,
+                "last_commit": "2026-09-01T21:11:40Z",
+                "open_issues": 451,
                 "owner": "NovaSky-AI",
                 "repo": "SkyRL",
-                "stars": 2212,
+                "stars": 2215,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:57.123Z"
@@ -443,7 +443,7 @@
                 "open_issues": 7,
                 "owner": "sail-sg",
                 "repo": "understand-r1-zero",
-                "stars": 1275,
+                "stars": 1274,
                 "topics": [
                   "llm",
                   "r1-zero",
@@ -490,7 +490,7 @@
                 "open_issues": 16,
                 "owner": "ModalMinds",
                 "repo": "MM-EUREKA",
-                "stars": 771,
+                "stars": 770,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:57.123Z"
@@ -511,7 +511,7 @@
                 "open_issues": 17,
                 "owner": "RUCAIBox",
                 "repo": "Slow_Thinking_with_LLMs",
-                "stars": 769,
+                "stars": 768,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:57.123Z"
@@ -545,7 +545,7 @@
                 "open_issues": 33,
                 "owner": "deepseek-ai",
                 "repo": "DeepSeek-R1",
-                "stars": 92035,
+                "stars": 92031,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:57.123Z"
@@ -566,7 +566,7 @@
                 "open_issues": 66,
                 "owner": "QwenLM",
                 "repo": "Qwen3",
-                "stars": 27581,
+                "stars": 27585,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:57.123Z"
@@ -608,7 +608,7 @@
                 "open_issues": 16,
                 "owner": "MoonshotAI",
                 "repo": "Kimi-k1.5",
-                "stars": 3471,
+                "stars": 3469,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:57.123Z"
@@ -789,10 +789,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-08-13T11:26:24Z",
-                    "open_issues": 363,
+                    "open_issues": 364,
                     "owner": "OpenRLHF",
                     "repo": "OpenRLHF",
-                    "stars": 9961,
+                    "stars": 9968,
                     "topics": [
                       "large-language-models",
                       "proximal-policy-optimization",
@@ -881,7 +881,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T23:01:59.709Z",
+    "last_updated": "2026-09-01T21:21:00.832Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of LLM papers, blogs, and projects, with a focus on OpenAI o1 🍓 and reasoning techniques.",
@@ -893,7 +893,7 @@
       "open_issues": 27,
       "owner": "hijkzzz",
       "repo": "Awesome-LLM-Strawberry",
-      "stars": 6899,
+      "stars": 6901,
       "topics": [
         "chain-of-thought",
         "coding",
