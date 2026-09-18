@@ -21,7 +21,7 @@
                 "open_issues": 68,
                 "owner": "QwenLM",
                 "repo": "Qwen3",
-                "stars": 27632,
+                "stars": 27642,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:57.123Z"
@@ -181,7 +181,7 @@
                 "open_issues": 82,
                 "owner": "Jiayi-Pan",
                 "repo": "TinyZero",
-                "stars": 13236,
+                "stars": 13237,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:57.123Z"
@@ -202,7 +202,7 @@
                 "open_issues": 380,
                 "owner": "OpenRLHF",
                 "repo": "OpenRLHF",
-                "stars": 10014,
+                "stars": 10016,
                 "topics": [
                   "large-language-models",
                   "proximal-policy-optimization",
@@ -232,7 +232,7 @@
                 "open_issues": 380,
                 "owner": "OpenRLHF",
                 "repo": "OpenRLHF",
-                "stars": 10014,
+                "stars": 10016,
                 "topics": [
                   "large-language-models",
                   "proximal-policy-optimization",
@@ -259,7 +259,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-31T07:58:31Z",
-                "open_issues": 57,
+                "open_issues": 58,
                 "owner": "hiyouga",
                 "repo": "EasyR1",
                 "stars": 5165,
@@ -330,11 +330,11 @@
                 "id": 991939049,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-17T01:29:56Z",
+                "last_commit": "2026-09-18T01:29:10Z",
                 "open_issues": 133,
                 "owner": "alibaba",
                 "repo": "ROLL",
-                "stars": 3398,
+                "stars": 3401,
                 "topics": [
                   "agentic",
                   "rlhf",
@@ -397,11 +397,11 @@
                 "id": 970890722,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-17T21:35:27Z",
-                "open_issues": 470,
+                "last_commit": "2026-09-18T07:55:39Z",
+                "open_issues": 471,
                 "owner": "NovaSky-AI",
                 "repo": "SkyRL",
-                "stars": 2320,
+                "stars": 2322,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:57.123Z"
@@ -542,10 +542,10 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2025-06-27T08:35:54Z",
-                "open_issues": 33,
+                "open_issues": 34,
                 "owner": "deepseek-ai",
                 "repo": "DeepSeek-R1",
-                "stars": 91979,
+                "stars": 91982,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:57.123Z"
@@ -566,7 +566,7 @@
                 "open_issues": 68,
                 "owner": "QwenLM",
                 "repo": "Qwen3",
-                "stars": 27632,
+                "stars": 27642,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:57.123Z"
@@ -629,7 +629,7 @@
                 "open_issues": 22,
                 "owner": "XiaomiMiMo",
                 "repo": "MiMo-V2-Flash",
-                "stars": 1367,
+                "stars": 1368,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:57.123Z"
@@ -692,7 +692,7 @@
                 "open_issues": 41,
                 "owner": "MoonshotAI",
                 "repo": "Kimi-VL",
-                "stars": 1229,
+                "stars": 1227,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:57.123Z"
@@ -734,7 +734,7 @@
                 "open_issues": 2,
                 "owner": "MoonshotAI",
                 "repo": "Kimina-Prover-Preview",
-                "stars": 377,
+                "stars": 376,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:57.123Z"
@@ -792,7 +792,7 @@
                     "open_issues": 380,
                     "owner": "OpenRLHF",
                     "repo": "OpenRLHF",
-                    "stars": 10014,
+                    "stars": 10016,
                     "topics": [
                       "large-language-models",
                       "proximal-policy-optimization",
@@ -881,7 +881,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T21:47:13.253Z",
+    "last_updated": "2026-09-18T21:16:08.198Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of LLM papers, blogs, and projects, with a focus on OpenAI o1 🍓 and reasoning techniques.",
