@@ -1,6 +1,6 @@
 # Awesome LLM Strawberry (OpenAI o1) with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 516,762 | 🐛 106 | 📅 2026-09-02 ![GitHub stars](https://img.shields.io/github/stars/hijkzzz/Awesome-LLM-Strawberry?color=yellow) ![GitHub forks](https://img.shields.io/github/forks/hijkzzz/Awesome-LLM-Strawberry?color=9cf) [![GitHub license](https://img.shields.io/github/license/hijkzzz/Awesome-LLM-Strawberry)](https://github.com/hijkzzz/Awesome-LLM-Strawberry/blob/main/LICENSE)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 517,207 | 🐛 106 | 📅 2026-09-02 ![GitHub stars](https://img.shields.io/github/stars/hijkzzz/Awesome-LLM-Strawberry?color=yellow) ![GitHub forks](https://img.shields.io/github/forks/hijkzzz/Awesome-LLM-Strawberry?color=9cf) [![GitHub license](https://img.shields.io/github/license/hijkzzz/Awesome-LLM-Strawberry)](https://github.com/hijkzzz/Awesome-LLM-Strawberry/blob/main/LICENSE)
 
 This is a collection of research papers & blogs for **OpenAI Strawberry(o1) and Reasoning**.
 
@@ -100,7 +100,7 @@ And the repository will be continuously updated to track the frontier of LLM Rea
 
 ### Models
 
-* \[Alibaba Qwen Team] [Qwen3](https://github.com/QwenLM/Qwen3) ⭐ 27,659 | 🐛 68 | 🌐 Python | 📅 2026-01-09
+* \[Alibaba Qwen Team] [Qwen3](https://github.com/QwenLM/Qwen3) ⭐ 27,663 | 🐛 69 | 🌐 Python | 📅 2026-01-09
 * \[NovaSky] [Sky-T1](https://github.com/NovaSky-AI/SkyThought) ⭐ 3,401 | 🐛 23 | 🌐 Python | 📅 2025-07-12
 * \[GAIR-NLP] [O1 Replication Journey: A Strategic Progress Report](https://github.com/GAIR-NLP/O1-Journey) ⭐ 2,000 | 🐛 14 | 📅 2025-01-14
 * \[Alibaba] [Marco-o1](https://github.com/AIDC-AI/Marco-o1) ⭐ 1,537 | 🐛 10 | 🌐 Python | 📅 2026-06-17
@@ -116,17 +116,17 @@ And the repository will be continuously updated to track the frontier of LLM Rea
 
 ### Codebase
 
-* \[Berkeley AI Research] [TinyZero](https://github.com/Jiayi-Pan/TinyZero) ⭐ 13,250 | 🐛 82 | 🌐 Python | 📅 2026-02-27
+* \[Berkeley AI Research] [TinyZero](https://github.com/Jiayi-Pan/TinyZero) ⭐ 13,251 | 🐛 82 | 🌐 Python | 📅 2026-02-27
 * \[OpenRLHF Team] [OpenRLHF](https://github.com/OpenRLHF/OpenRLHF) ⭐ 10,078 | 🐛 393 | 🌐 Python | 📅 2026-10-05
 * \[OpenRLHF Team] [REINFORCE++ | REINFORCE++-baseline](https://www.researchgate.net/publication/387487679_REINFORCE_An_Efficient_RLHF_Algorithm_with_Robustnessto_Both_Prompt_and_Reward_Models) | [Code](https://github.com/OpenRLHF/OpenRLHF/blob/main/examples/scripts/train_reinforce_baseline_llama_ray_hybrid_engine.sh) ⭐ 10,078 | 🐛 393 | 🌐 Python | 📅 2026-10-05
-* \[LLaMA-Factory Team] [EasyR1: An Efficient, Scalable, Multi-Modality RL Training Framework](https://github.com/hiyouga/EasyR1) ⭐ 5,183 | 🐛 60 | 🌐 Python | 📅 2026-09-19
-* \[R1-V Team] [R1-V](https://github.com/Deep-Agent/R1-V) ⭐ 4,063 | 🐛 95 | 🌐 Python | 📅 2025-05-19
+* \[LLaMA-Factory Team] [EasyR1: An Efficient, Scalable, Multi-Modality RL Training Framework](https://github.com/hiyouga/EasyR1) ⭐ 5,184 | 🐛 60 | 🌐 Python | 📅 2026-09-19
+* \[R1-V Team] [R1-V](https://github.com/Deep-Agent/R1-V) ⭐ 4,064 | 🐛 95 | 🌐 Python | 📅 2025-05-19
 * \[HKUST] [Simple Reinforcement Learning for Reasoning](https://github.com/hkust-nlp/simpleRL-reason) ⭐ 3,875 | 🐛 35 | 🌐 Python | 📅 2025-12-23
   * This is a replicate of DeepSeek-R1-Zero and DeepSeek-R1 training on small models with limited data
-* \[Alibaba] [ROLL](https://github.com/alibaba/ROLL) ⭐ 3,416 | 🐛 136 | 🌐 Python | 📅 2026-10-09 | [Paper](https://arxiv.org/abs/2506.06122)
+* \[Alibaba] [ROLL](https://github.com/alibaba/ROLL) ⭐ 3,417 | 🐛 136 | 🌐 Python | 📅 2026-10-10 | [Paper](https://arxiv.org/abs/2506.06122)
 * \[Ubiquant] [Logic-RL: Unleashing LLM Reasoning with Rule-Based Reinforcement Learning](https://github.com/Unakar/Logic-RL) ⭐ 2,452 | 🐛 14 | 🌐 Python | 📅 2025-03-20
-* \[NovaSky-AI] [SkyRL](https://github.com/NovaSky-AI/SkyRL) ⭐ 2,397 | 🐛 526 | 🌐 Python | 📅 2026-10-09
-* \[Maitrix.org] [LLM Reasoners](https://github.com/maitrix-org/llm-reasoners) ⭐ 2,343 | 🐛 32 | 🌐 Python | 📅 2025-06-10
+* \[NovaSky-AI] [SkyRL](https://github.com/NovaSky-AI/SkyRL) ⭐ 2,401 | 🐛 530 | 🌐 Python | 📅 2026-10-10
+* \[Maitrix.org] [LLM Reasoners](https://github.com/maitrix-org/llm-reasoners) ⭐ 2,344 | 🐛 32 | 🌐 Python | 📅 2025-06-10
 * \[StepFun] [Open-Reasoner-Zero](https://github.com/Open-Reasoner-Zero/Open-Reasoner-Zero) ⭐ 2,099 | 🐛 22 | 🌐 Python | 📅 2025-06-02
 * \[Sea AI Lab] [Dr. GRPO](https://github.com/sail-sg/understand-r1-zero) ⭐ 1,280 | 🐛 8 | 🌐 Python | 📅 2025-08-27
 * \[TideDra] [LMM-R1](https://github.com/TideDra/lmm-r1) ⭐ 847 | 🐛 16 | 🌐 Python | 📅 2025-05-14
@@ -146,19 +146,19 @@ format:
 
 ### Technical Report on o1 Models
 
-* [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://github.com/deepseek-ai/DeepSeek-R1/blob/main/DeepSeek_R1.pdf) ⭐ 91,903 | 🐛 42 | 📅 2025-06-27
+* [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://github.com/deepseek-ai/DeepSeek-R1/blob/main/DeepSeek_R1.pdf) ⭐ 91,905 | 🐛 41 | 📅 2025-06-27
   * DeepSeek AI
-* [Qwen3 Technical Report ](https://github.com/QwenLM/Qwen3/blob/main/Qwen3_Technical_Report.pdf) ⭐ 27,659 | 🐛 68 | 🌐 Python | 📅 2026-01-09
+* [Qwen3 Technical Report ](https://github.com/QwenLM/Qwen3/blob/main/Qwen3_Technical_Report.pdf) ⭐ 27,663 | 🐛 69 | 🌐 Python | 📅 2026-01-09
   * Qwen Team
-* [Kimi k2: Open agentic intelligence](https://github.com/MoonshotAI/Kimi-K2/blob/main/tech_report.pdf) ⭐ 11,106 | 🐛 72 | 📅 2026-01-21
+* [Kimi k2: Open agentic intelligence](https://github.com/MoonshotAI/Kimi-K2/blob/main/tech_report.pdf) ⭐ 11,107 | 🐛 72 | 📅 2026-01-21
   * MoonShot
-* [Kimi k1.5: Scaling Reinforcement Learning with LLMs](https://github.com/MoonshotAI/Kimi-k1.5) ⭐ 3,465 | 🐛 16 | 📅 2025-03-07
+* [Kimi k1.5: Scaling Reinforcement Learning with LLMs](https://github.com/MoonshotAI/Kimi-k1.5) ⭐ 3,466 | 🐛 16 | 📅 2025-03-07
   * MoonShot
-* [MiMo-V2 Flash](https://github.com/XiaomiMiMo/MiMo-V2-Flash/blob/main/paper.pdf) ⭐ 1,391 | 🐛 22 | 📅 2026-01-08
+* [MiMo-V2 Flash](https://github.com/XiaomiMiMo/MiMo-V2-Flash/blob/main/paper.pdf) ⭐ 1,391 | 🐛 23 | 📅 2026-01-08
   * Xiao Mi
-* [LongCat Flash](https://github.com/meituan-longcat/LongCat-Flash-Chat/blob/main/tech_report.pdf) ⭐ 1,365 | 🐛 15 | 📅 2026-06-23
+* [LongCat Flash](https://github.com/meituan-longcat/LongCat-Flash-Chat/blob/main/tech_report.pdf) ⭐ 1,366 | 🐛 15 | 📅 2026-06-23
   * Meituan
-* [DeepSeek-Prover-V2: Advancing Formal Mathematical Reasoning via Reinforcement Learning for Subgoal Decomposition](https://github.com/deepseek-ai/DeepSeek-Prover-V2/tree/main) ⭐ 1,309 | 🐛 12 | 📅 2025-07-18
+* [DeepSeek-Prover-V2: Advancing Formal Mathematical Reasoning via Reinforcement Learning for Subgoal Decomposition](https://github.com/deepseek-ai/DeepSeek-Prover-V2/tree/main) ⭐ 1,311 | 🐛 12 | 📅 2025-07-18
   * DeepSeek AI
 * [KIMI-VL TECHNICAL REPORT](https://github.com/MoonshotAI/Kimi-VL/blob/main/Kimi-VL.pdf) ⭐ 1,227 | 🐛 41 | 📅 2025-07-15
   * MoonShot
@@ -515,4 +515,4 @@ format:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._

@@ -18,10 +18,10 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-01-09T03:05:47Z",
-                "open_issues": 68,
+                "open_issues": 69,
                 "owner": "QwenLM",
                 "repo": "Qwen3",
-                "stars": 27659,
+                "stars": 27663,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:57.123Z"
@@ -181,7 +181,7 @@
                 "open_issues": 82,
                 "owner": "Jiayi-Pan",
                 "repo": "TinyZero",
-                "stars": 13250,
+                "stars": 13251,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:57.123Z"
@@ -262,7 +262,7 @@
                 "open_issues": 60,
                 "owner": "hiyouga",
                 "repo": "EasyR1",
-                "stars": 5183,
+                "stars": 5184,
                 "topics": [
                   "ai",
                   "deepseek",
@@ -292,7 +292,7 @@
                 "open_issues": 95,
                 "owner": "StarsfieldAI",
                 "repo": "R1-V",
-                "stars": 4063,
+                "stars": 4064,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:57.123Z"
@@ -330,11 +330,11 @@
                 "id": 991939049,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-09T01:41:56Z",
+                "last_commit": "2026-10-10T01:38:32Z",
                 "open_issues": 136,
                 "owner": "alibaba",
                 "repo": "ROLL",
-                "stars": 3416,
+                "stars": 3417,
                 "topics": [
                   "agentic",
                   "rlhf",
@@ -376,11 +376,11 @@
                 "id": 970890722,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-09T21:11:39Z",
-                "open_issues": 526,
+                "last_commit": "2026-10-10T01:26:55Z",
+                "open_issues": 530,
                 "owner": "NovaSky-AI",
                 "repo": "SkyRL",
-                "stars": 2397,
+                "stars": 2401,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:57.123Z"
@@ -401,7 +401,7 @@
                 "open_issues": 32,
                 "owner": "maitrix-org",
                 "repo": "llm-reasoners",
-                "stars": 2343,
+                "stars": 2344,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:57.123Z"
@@ -542,10 +542,10 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2025-06-27T08:35:54Z",
-                "open_issues": 42,
+                "open_issues": 41,
                 "owner": "deepseek-ai",
                 "repo": "DeepSeek-R1",
-                "stars": 91903,
+                "stars": 91905,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:57.123Z"
@@ -563,10 +563,10 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-01-09T03:05:47Z",
-                "open_issues": 68,
+                "open_issues": 69,
                 "owner": "QwenLM",
                 "repo": "Qwen3",
-                "stars": 27659,
+                "stars": 27663,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:57.123Z"
@@ -587,7 +587,7 @@
                 "open_issues": 72,
                 "owner": "MoonshotAI",
                 "repo": "Kimi-K2",
-                "stars": 11106,
+                "stars": 11107,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:57.123Z"
@@ -608,7 +608,7 @@
                 "open_issues": 16,
                 "owner": "MoonshotAI",
                 "repo": "Kimi-k1.5",
-                "stars": 3465,
+                "stars": 3466,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:57.123Z"
@@ -626,7 +626,7 @@
                 "language": null,
                 "license": "Apache-2.0",
                 "last_commit": "2026-01-08T04:53:37Z",
-                "open_issues": 22,
+                "open_issues": 23,
                 "owner": "XiaomiMiMo",
                 "repo": "MiMo-V2-Flash",
                 "stars": 1391,
@@ -650,7 +650,7 @@
                 "open_issues": 15,
                 "owner": "meituan-longcat",
                 "repo": "LongCat-Flash-Chat",
-                "stars": 1365,
+                "stars": 1366,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:57.123Z"
@@ -671,7 +671,7 @@
                 "open_issues": 12,
                 "owner": "deepseek-ai",
                 "repo": "DeepSeek-Prover-V2",
-                "stars": 1309,
+                "stars": 1311,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:57.123Z"
@@ -881,7 +881,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T22:54:29.213Z",
+    "last_updated": "2026-10-10T22:00:09.381Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of LLM papers, blogs, and projects, with a focus on OpenAI o1 🍓 and reasoning techniques.",
@@ -893,7 +893,7 @@
       "open_issues": 29,
       "owner": "hijkzzz",
       "repo": "Awesome-LLM-Strawberry",
-      "stars": 6907,
+      "stars": 6908,
       "topics": [
         "chain-of-thought",
         "coding",
