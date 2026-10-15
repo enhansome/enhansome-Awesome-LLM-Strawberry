@@ -21,7 +21,7 @@
                 "open_issues": 69,
                 "owner": "QwenLM",
                 "repo": "Qwen3",
-                "stars": 27671,
+                "stars": 27670,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:57.123Z"
@@ -63,7 +63,7 @@
                 "open_issues": 14,
                 "owner": "GAIR-NLP",
                 "repo": "O1-Journey",
-                "stars": 2000,
+                "stars": 1999,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:57.123Z"
@@ -181,7 +181,7 @@
                 "open_issues": 82,
                 "owner": "Jiayi-Pan",
                 "repo": "TinyZero",
-                "stars": 13252,
+                "stars": 13250,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:57.123Z"
@@ -202,7 +202,7 @@
                 "open_issues": 396,
                 "owner": "OpenRLHF",
                 "repo": "OpenRLHF",
-                "stars": 10088,
+                "stars": 10089,
                 "topics": [
                   "large-language-models",
                   "proximal-policy-optimization",
@@ -232,7 +232,7 @@
                 "open_issues": 396,
                 "owner": "OpenRLHF",
                 "repo": "OpenRLHF",
-                "stars": 10088,
+                "stars": 10089,
                 "topics": [
                   "large-language-models",
                   "proximal-policy-optimization",
@@ -262,7 +262,7 @@
                 "open_issues": 60,
                 "owner": "hiyouga",
                 "repo": "EasyR1",
-                "stars": 5190,
+                "stars": 5192,
                 "topics": [
                   "ai",
                   "deepseek",
@@ -292,7 +292,7 @@
                 "open_issues": 95,
                 "owner": "StarsfieldAI",
                 "repo": "R1-V",
-                "stars": 4063,
+                "stars": 4062,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:57.123Z"
@@ -330,11 +330,11 @@
                 "id": 991939049,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-14T01:26:37Z",
+                "last_commit": "2026-10-15T01:26:38Z",
                 "open_issues": 136,
                 "owner": "alibaba",
                 "repo": "ROLL",
-                "stars": 3425,
+                "stars": 3423,
                 "topics": [
                   "agentic",
                   "rlhf",
@@ -376,11 +376,11 @@
                 "id": 970890722,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-14T20:33:16Z",
+                "last_commit": "2026-10-15T21:39:57Z",
                 "open_issues": 547,
                 "owner": "NovaSky-AI",
                 "repo": "SkyRL",
-                "stars": 2420,
+                "stars": 2423,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:57.123Z"
@@ -401,7 +401,7 @@
                 "open_issues": 32,
                 "owner": "maitrix-org",
                 "repo": "llm-reasoners",
-                "stars": 2344,
+                "stars": 2343,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:57.123Z"
@@ -443,7 +443,7 @@
                 "open_issues": 8,
                 "owner": "sail-sg",
                 "repo": "understand-r1-zero",
-                "stars": 1282,
+                "stars": 1284,
                 "topics": [
                   "llm",
                   "r1-zero",
@@ -490,7 +490,7 @@
                 "open_issues": 16,
                 "owner": "ModalMinds",
                 "repo": "MM-EUREKA",
-                "stars": 770,
+                "stars": 771,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:57.123Z"
@@ -545,7 +545,7 @@
                 "open_issues": 44,
                 "owner": "deepseek-ai",
                 "repo": "DeepSeek-R1",
-                "stars": 91891,
+                "stars": 91888,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:57.123Z"
@@ -566,7 +566,7 @@
                 "open_issues": 69,
                 "owner": "QwenLM",
                 "repo": "Qwen3",
-                "stars": 27671,
+                "stars": 27670,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:57.123Z"
@@ -587,7 +587,7 @@
                 "open_issues": 72,
                 "owner": "MoonshotAI",
                 "repo": "Kimi-K2",
-                "stars": 11109,
+                "stars": 11110,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:57.123Z"
@@ -671,7 +671,7 @@
                 "open_issues": 12,
                 "owner": "deepseek-ai",
                 "repo": "DeepSeek-Prover-V2",
-                "stars": 1311,
+                "stars": 1312,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:57.123Z"
@@ -792,7 +792,7 @@
                     "open_issues": 396,
                     "owner": "OpenRLHF",
                     "repo": "OpenRLHF",
-                    "stars": 10088,
+                    "stars": 10089,
                     "topics": [
                       "large-language-models",
                       "proximal-policy-optimization",
@@ -881,7 +881,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T21:57:02.301Z",
+    "last_updated": "2026-10-15T21:47:49.314Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of LLM papers, blogs, and projects, with a focus on OpenAI o1 🍓 and reasoning techniques.",
@@ -893,7 +893,7 @@
       "open_issues": 29,
       "owner": "hijkzzz",
       "repo": "Awesome-LLM-Strawberry",
-      "stars": 6907,
+      "stars": 6906,
       "topics": [
         "chain-of-thought",
         "coding",
