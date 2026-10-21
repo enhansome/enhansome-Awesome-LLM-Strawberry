@@ -18,10 +18,10 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-01-09T03:05:47Z",
-                "open_issues": 69,
+                "open_issues": 68,
                 "owner": "QwenLM",
                 "repo": "Qwen3",
-                "stars": 27679,
+                "stars": 27681,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:57.123Z"
@@ -181,7 +181,7 @@
                 "open_issues": 82,
                 "owner": "Jiayi-Pan",
                 "repo": "TinyZero",
-                "stars": 13252,
+                "stars": 13253,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:57.123Z"
@@ -202,7 +202,7 @@
                 "open_issues": 402,
                 "owner": "OpenRLHF",
                 "repo": "OpenRLHF",
-                "stars": 10102,
+                "stars": 10106,
                 "topics": [
                   "large-language-models",
                   "proximal-policy-optimization",
@@ -232,7 +232,7 @@
                 "open_issues": 402,
                 "owner": "OpenRLHF",
                 "repo": "OpenRLHF",
-                "stars": 10102,
+                "stars": 10106,
                 "topics": [
                   "large-language-models",
                   "proximal-policy-optimization",
@@ -259,10 +259,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-19T03:57:02Z",
-                "open_issues": 61,
+                "open_issues": 62,
                 "owner": "hiyouga",
                 "repo": "EasyR1",
-                "stars": 5203,
+                "stars": 5205,
                 "topics": [
                   "ai",
                   "deepseek",
@@ -292,7 +292,7 @@
                 "open_issues": 95,
                 "owner": "StarsfieldAI",
                 "repo": "R1-V",
-                "stars": 4061,
+                "stars": 4062,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:57.123Z"
@@ -330,11 +330,11 @@
                 "id": 991939049,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-20T01:27:56Z",
+                "last_commit": "2026-10-21T01:29:55Z",
                 "open_issues": 140,
                 "owner": "alibaba",
                 "repo": "ROLL",
-                "stars": 3432,
+                "stars": 3433,
                 "topics": [
                   "agentic",
                   "rlhf",
@@ -376,11 +376,11 @@
                 "id": 970890722,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-20T17:38:46Z",
-                "open_issues": 557,
+                "last_commit": "2026-10-21T21:29:59Z",
+                "open_issues": 558,
                 "owner": "NovaSky-AI",
                 "repo": "SkyRL",
-                "stars": 2438,
+                "stars": 2443,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:57.123Z"
@@ -545,7 +545,7 @@
                 "open_issues": 44,
                 "owner": "deepseek-ai",
                 "repo": "DeepSeek-R1",
-                "stars": 91910,
+                "stars": 91923,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:57.123Z"
@@ -563,10 +563,10 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-01-09T03:05:47Z",
-                "open_issues": 69,
+                "open_issues": 68,
                 "owner": "QwenLM",
                 "repo": "Qwen3",
-                "stars": 27679,
+                "stars": 27681,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:57.123Z"
@@ -629,7 +629,7 @@
                 "open_issues": 23,
                 "owner": "XiaomiMiMo",
                 "repo": "MiMo-V2-Flash",
-                "stars": 1398,
+                "stars": 1399,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:57.123Z"
@@ -650,7 +650,7 @@
                 "open_issues": 15,
                 "owner": "meituan-longcat",
                 "repo": "LongCat-Flash-Chat",
-                "stars": 1363,
+                "stars": 1364,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:57.123Z"
@@ -671,7 +671,7 @@
                 "open_issues": 12,
                 "owner": "deepseek-ai",
                 "repo": "DeepSeek-Prover-V2",
-                "stars": 1313,
+                "stars": 1314,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:57.123Z"
@@ -692,7 +692,7 @@
                 "open_issues": 41,
                 "owner": "MoonshotAI",
                 "repo": "Kimi-VL",
-                "stars": 1228,
+                "stars": 1227,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:57.123Z"
@@ -792,7 +792,7 @@
                     "open_issues": 402,
                     "owner": "OpenRLHF",
                     "repo": "OpenRLHF",
-                    "stars": 10102,
+                    "stars": 10106,
                     "topics": [
                       "large-language-models",
                       "proximal-policy-optimization",
@@ -881,7 +881,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T21:53:25.493Z",
+    "last_updated": "2026-10-21T21:59:16.837Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of LLM papers, blogs, and projects, with a focus on OpenAI o1 🍓 and reasoning techniques.",
@@ -893,7 +893,7 @@
       "open_issues": 30,
       "owner": "hijkzzz",
       "repo": "Awesome-LLM-Strawberry",
-      "stars": 6902,
+      "stars": 6901,
       "topics": [
         "chain-of-thought",
         "coding",
