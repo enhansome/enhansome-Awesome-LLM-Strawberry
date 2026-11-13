@@ -199,7 +199,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-03T03:17:19Z",
-                "open_issues": 427,
+                "open_issues": 433,
                 "owner": "OpenRLHF",
                 "repo": "OpenRLHF",
                 "stars": 10151,
@@ -229,7 +229,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-03T03:17:19Z",
-                "open_issues": 427,
+                "open_issues": 433,
                 "owner": "OpenRLHF",
                 "repo": "OpenRLHF",
                 "stars": 10151,
@@ -259,7 +259,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-08T07:47:57Z",
-                "open_issues": 74,
+                "open_issues": 75,
                 "owner": "hiyouga",
                 "repo": "EasyR1",
                 "stars": 5214,
@@ -330,11 +330,11 @@
                 "id": 991939049,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-12T01:13:30Z",
+                "last_commit": "2026-11-13T01:12:38Z",
                 "open_issues": 147,
                 "owner": "alibaba",
                 "repo": "ROLL",
-                "stars": 3455,
+                "stars": 3456,
                 "topics": [
                   "agentic",
                   "rlhf",
@@ -355,11 +355,11 @@
                 "id": 970890722,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-12T21:14:48Z",
-                "open_issues": 638,
+                "last_commit": "2026-11-13T22:52:32Z",
+                "open_issues": 645,
                 "owner": "NovaSky-AI",
                 "repo": "SkyRL",
-                "stars": 2522,
+                "stars": 2525,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:57.123Z"
@@ -545,7 +545,7 @@
                 "open_issues": 46,
                 "owner": "deepseek-ai",
                 "repo": "DeepSeek-R1",
-                "stars": 92021,
+                "stars": 92017,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:57.123Z"
@@ -671,7 +671,7 @@
                 "open_issues": 12,
                 "owner": "deepseek-ai",
                 "repo": "DeepSeek-Prover-V2",
-                "stars": 1328,
+                "stars": 1329,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:57.123Z"
@@ -713,7 +713,7 @@
                 "open_issues": 10,
                 "owner": "ByteDance-Seed",
                 "repo": "Seed-Thinking-v1.5",
-                "stars": 813,
+                "stars": 812,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:57.123Z"
@@ -789,7 +789,7 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-11-03T03:17:19Z",
-                    "open_issues": 427,
+                    "open_issues": 433,
                     "owner": "OpenRLHF",
                     "repo": "OpenRLHF",
                     "stars": 10151,
@@ -881,7 +881,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T23:53:15.778Z",
+    "last_updated": "2026-11-13T23:53:18.765Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of LLM papers, blogs, and projects, with a focus on OpenAI o1 🍓 and reasoning techniques.",
