@@ -21,7 +21,7 @@
                 "open_issues": 72,
                 "owner": "QwenLM",
                 "repo": "Qwen3",
-                "stars": 27766,
+                "stars": 27769,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:57.123Z"
@@ -105,7 +105,7 @@
                 "open_issues": 27,
                 "owner": "FreedomIntelligence",
                 "repo": "HuatuoGPT-o1",
-                "stars": 1367,
+                "stars": 1368,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:57.123Z"
@@ -126,7 +126,7 @@
                 "open_issues": 11,
                 "owner": "agentica-project",
                 "repo": "rllm",
-                "stars": 417,
+                "stars": 418,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:57.123Z"
@@ -181,7 +181,7 @@
                 "open_issues": 83,
                 "owner": "Jiayi-Pan",
                 "repo": "TinyZero",
-                "stars": 13261,
+                "stars": 13263,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:57.123Z"
@@ -199,10 +199,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-03T03:17:19Z",
-                "open_issues": 441,
+                "open_issues": 439,
                 "owner": "OpenRLHF",
                 "repo": "OpenRLHF",
-                "stars": 10178,
+                "stars": 10180,
                 "topics": [
                   "large-language-models",
                   "proximal-policy-optimization",
@@ -229,10 +229,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-03T03:17:19Z",
-                "open_issues": 441,
+                "open_issues": 439,
                 "owner": "OpenRLHF",
                 "repo": "OpenRLHF",
-                "stars": 10178,
+                "stars": 10180,
                 "topics": [
                   "large-language-models",
                   "proximal-policy-optimization",
@@ -292,7 +292,7 @@
                 "open_issues": 95,
                 "owner": "StarsfieldAI",
                 "repo": "R1-V",
-                "stars": 4067,
+                "stars": 4068,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:57.123Z"
@@ -330,11 +330,11 @@
                 "id": 991939049,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-24T01:13:35Z",
-                "open_issues": 147,
+                "last_commit": "2026-11-25T01:13:37Z",
+                "open_issues": 148,
                 "owner": "alibaba",
                 "repo": "ROLL",
-                "stars": 3457,
+                "stars": 3459,
                 "topics": [
                   "agentic",
                   "rlhf",
@@ -355,11 +355,11 @@
                 "id": 970890722,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-23T22:21:11Z",
-                "open_issues": 686,
+                "last_commit": "2026-11-25T02:29:06Z",
+                "open_issues": 688,
                 "owner": "skyrl-project",
                 "repo": "SkyRL",
-                "stars": 2563,
+                "stars": 2569,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:57.123Z"
@@ -422,7 +422,7 @@
                 "open_issues": 23,
                 "owner": "Open-Reasoner-Zero",
                 "repo": "Open-Reasoner-Zero",
-                "stars": 2103,
+                "stars": 2104,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:57.123Z"
@@ -443,7 +443,7 @@
                 "open_issues": 9,
                 "owner": "sail-sg",
                 "repo": "understand-r1-zero",
-                "stars": 1289,
+                "stars": 1290,
                 "topics": [
                   "llm",
                   "r1-zero",
@@ -545,7 +545,7 @@
                 "open_issues": 46,
                 "owner": "deepseek-ai",
                 "repo": "DeepSeek-R1",
-                "stars": 92056,
+                "stars": 92050,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:57.123Z"
@@ -566,7 +566,7 @@
                 "open_issues": 72,
                 "owner": "QwenLM",
                 "repo": "Qwen3",
-                "stars": 27766,
+                "stars": 27769,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:57.123Z"
@@ -587,7 +587,7 @@
                 "open_issues": 75,
                 "owner": "MoonshotAI",
                 "repo": "Kimi-K2",
-                "stars": 11121,
+                "stars": 11122,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:57.123Z"
@@ -629,7 +629,7 @@
                 "open_issues": 23,
                 "owner": "XiaomiMiMo",
                 "repo": "MiMo-V2-Flash",
-                "stars": 1401,
+                "stars": 1405,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:57.123Z"
@@ -789,10 +789,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-11-03T03:17:19Z",
-                    "open_issues": 441,
+                    "open_issues": 439,
                     "owner": "OpenRLHF",
                     "repo": "OpenRLHF",
-                    "stars": 10178,
+                    "stars": 10180,
                     "topics": [
                       "large-language-models",
                       "proximal-policy-optimization",
@@ -881,7 +881,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T04:05:41.856Z",
+    "last_updated": "2026-11-25T02:47:46.914Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of LLM papers, blogs, and projects, with a focus on OpenAI o1 🍓 and reasoning techniques.",
